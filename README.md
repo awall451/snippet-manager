@@ -89,7 +89,7 @@ The core of the application will be a single table:
 
 Initial project layout:
 ```bash
-dev-snippet-manager/
+snippet-manager/
 │
 ├── snippets.py # Main CLI application
 ├── db.py # Database helper functions
@@ -231,4 +231,3 @@ By the end of this project, the goal is to have a solid understanding of how Pyt
 ## Author
 
 Created as a personal learning project to explore Python, SQL, and application development.
-- Write basic DB connection logic  
